@@ -1,0 +1,6 @@
+[submodule "dry"]
+	path = dry
+	url = https://github.com/spe-bfountain/test_bf_906gitm_common.git
+[submodule "also_dry_too"]
+	path = also_dry_too
+	url = https://github.com/spe-bfountain/test_bf_906gitm_common.git
