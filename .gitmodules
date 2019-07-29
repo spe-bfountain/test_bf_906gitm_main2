@@ -1,6 +1,3 @@
 [submodule "dry"]
 	path = dry
 	url = https://github.com/spe-bfountain/test_bf_906gitm_common.git
-[submodule "common_submodule"]
-	path = common_submodule
-	url = https://github.com/spe-bfountain/test_bf_906gitm_common.git
